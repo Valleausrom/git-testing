@@ -2,7 +2,7 @@
 
 ## First Steps
 
-This section gives an overview of the basic commands. 
+This section introduces the fundementals of git.
 
 Add a list of all different git comamnds and their purpose.
 
